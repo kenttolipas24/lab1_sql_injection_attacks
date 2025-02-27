@@ -72,3 +72,4 @@ public class Authenticator {
         return input.trim().replace("'", "''");
     }
 }
+
